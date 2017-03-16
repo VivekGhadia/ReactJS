@@ -1,0 +1,21 @@
+.homeMainDiv{
+  margin: 5px 5px 5px 5px;
+  border:1px solid #d9d9d9;
+  width: 270px;
+  height: 800px;
+  border-radius: 2px;
+  background-color: white;
+  font-family: 'Titillium Web', sans-serif;
+  padding: 0px;
+  float: left;
+}
+
+.homeMainDiv img{
+  width: 200px;
+  height: 200px;
+  border-radius: 2px;
+  padding: 2px auto;
+  border: 1px solid red;
+  margin-left: 35px;
+  margin-top: 15px;
+}
